@@ -5,7 +5,7 @@
 ![Version: Omega](https://img.shields.io/badge/Version-%CE%A9-purple)
 ![Organization: Lichen-Collectives](https://img.shields.io/badge/Org-Lichen--Collectives-darkgreen)
 
-
+**Papier de recherche complet ici** : https://quantum-lichen.github.io/KERNEL-OMEGA/KERNEL_OMEGA.md
 ## 🌌 Synopsis
 Les LLMs actuels opèrent majoritairement en "Système 1" : une génération de texte probabiliste, rapide et linéaire. **KERNEL Ω** est un pipeline cognitif (Système 2) qui implémente une boucle de rétroaction topologique. 
 
