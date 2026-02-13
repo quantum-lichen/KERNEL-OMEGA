@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "KERNEL Ω (Omega) : Architecture Cognitive Unifiée pour LLM"
+message: "Si vous utilisez ce framework théorique ou ce pipeline d'ingénierie cognitive dans vos recherches ou vos modèles, veuillez le citer comme suit."
+type: framework
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+    email: "lmc.theory@gmail.com"
+    affiliation: "Lichen-Collectives"
+repository-code: "https://github.com/Inphinie/KERNEL-OMEGA"
+abstract: "KERNEL Ω est un système de prompt engineering unifié qui fusionne Graph of Thoughts, Self-Discover et Few-Shot Introspectif en un pipeline cognitif à 7 phases. Il enseigne aux modèles de langage la mécanique du doute, de l'auto-correction et de l'adaptation non-linéaire, créant une boucle de rétroaction topologique pour une résolution de problèmes à haute complexité."
+keywords:
+  - "Prompt Engineering"
+  - "Cognitive Architecture"
+  - "Large Language Models"
+  - "Graph of Thoughts"
+  - "Metacognition"
+license: "MIT"
+date-released: "2026-02-13"
